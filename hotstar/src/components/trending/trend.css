@@ -20,14 +20,14 @@
     .Trend2{
         width:100px;
         position: absolute;
-        left: 3px;
+        left:10px;
         top: 380px;
     }
 
     .Trend3{
         width:100px;
         position: absolute;
-        left:150px;
+        left:170px;
         top:380px
     }
 
